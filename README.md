@@ -1,6 +1,6 @@
-server-rendering
-================
 nodejs DOM rendering
+================
+Removed Contextify dependency from jsdom just to easly render the page at the first run using client libs, such d3.
 
 ```
 npm install
