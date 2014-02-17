@@ -11,7 +11,7 @@ selectors.applyQuerySelectorPrototype(level)
 window = augWin;
 document = augWin.document
 
-d3 = require('./d3')
+d3 = require('./js/d3')
 
 //EXAMPLE 1
 d3
