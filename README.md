@@ -1,6 +1,10 @@
 server-rendering
 ================
-proof of concept
+nodejs DOM rendering
+
+```
+npm install
+```
 
 usage:
 ```
